@@ -1,0 +1,13 @@
+Package: cellselect
+Type: Package
+Title: Methods to objectively and reliably identify B cells with CXCR4 and CD5 profiles of interest.
+Version: 0.1.0
+Author: Guillaume Stoffels
+Maintainer: Guillaume Stoffels <guillaume.stoffels@mountsinai.org>
+Description: These methods extend to other situations where one needs to identify cell profiles based on a pair of biomarkers.
+Imports: robustbase
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+
